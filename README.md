@@ -55,3 +55,31 @@
 - None
 
 ---
+
+## Date: 09-09-2026
+
+**Today's Work:**
+- Implemented Session 2 practice problems: Vowel & Consonant Counter with case-insensitive charAt() traversal, CSV Student Record Parser with field length validation, File Extension Validator using lastIndexOf() and case-insensitive check, Masked Phone Number Formatter with StringBuilder insertion, and Bank Transaction Reference Generator & Validator with normalization and multi-stage checks.
+- Implemented Session 2 assignment problems: ATM PIN Length Validator using length and branch checks, Word Reversal Encoder reversing individual words in a sentence, Product Inventory CSV Parser, Library ISBN Normalizer & multi-stage Validator, and Stop-Word-Filtered Word Frequency Report with frequency counting and descending sort.
+
+**Next Session Plan:**
+- Proceed to Session 3 on OOP, Classes and Objects.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 08-09-2026
+
+**Today's Work:**
+- Implemented Session 1 practice problems: Rock-Paper-Scissors arcade simulator with win percentage stats, Palindrome Checker comparing iterative, recursive, and array-reversal approaches, BMI Calculator with corporate wellness health classification, First Non-Repeating Character scanner using frequency mapping, and Customer Name Reverser maintaining immutability of original data.
+- Implemented Session 1 assignment problems: Exam Hall Seat Duplication Checker using nested array loops, Typing Speed Test Accuracy Checker with character mismatch locator, Traffic Signal Streak Analyzer tracking longest consecutive color runs, Warehouse Inventory Balancer comparing section totals and finding warehouse maxima, and Movie Review Word Length Profiler categorizing Short/Medium/Long words.
+
+**Next Session Plan:**
+- Proceed to Session 2 on Strings and Text Processing.
+
+**Issues Faced:**
+- None
+
+---
